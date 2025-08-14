@@ -14,8 +14,7 @@ Categoria	Tecnologias/Ferramentas
   - Build Tool:	Maven
   - Testes de API: 	API Dog 
 
-Como Executar o Projeto
-Pré-requisitos
+Requisitos para eexecutar o projeto
   - JDK 17 instalado
   - Maven 3.6+
   - API Dog (ou Postman/Insomnia) para testes
