@@ -10,11 +10,11 @@ Recursos Principais
 🛠️ Tecnologias Utilizadas
 Categoria	Tecnologias/Ferramentas
   - Linguagem: 	Java 17
-  - Framework:	Spring Boot 3.x 
+  - Framework:	Spring Boot
   - Build Tool:	Maven
   - Testes de API: 	API Dog 
 
-Requisitos para eexecutar o projeto
+Requisitos para executar o projeto
   - JDK 17 instalado
   - Maven 3.6+
   - API Dog (ou Postman/Insomnia) para testes
